@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "My Game",
+"productVersion": "1.0",
+"dataUrl": "fifa 2028.data.unityweb",
+"wasmCodeUrl": "fifa 2028.wasm.code.unityweb",
+"wasmFrameworkUrl": "fifa 2028.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
